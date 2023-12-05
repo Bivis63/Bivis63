@@ -1,12 +1,12 @@
-<p align="center">Привет всем!👋</p>
+<h1 align="center">Привет всем!👋</h1>
 
 ###
 
-<p align="left">Меня зовут Сергей Клушин и я Android developer</p>
+<h2 align="left">Меня зовут Сергей Клушин и я Android developer</h2>
 
 ###
 
-<p align="left">Языки и инструменты :</p>
+<h4 align="left">Языки и инструменты :</h4>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Мой стек: Kotlin, Clean Architecture, Retrofit, Coroutines, MVVM, SOLID, Room,  Koin, Jetpack Navigation Component</p>
+<h4 align="left">Мой стек: Kotlin, Clean Architecture, Retrofit, Coroutines, MVVM, SOLID, Room,  Koin, Jetpack Navigation Component</h4>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Как со мной связаться:<br>- https://t.me/Bivis63<br>- klushin_s@internet.ru<br>- https://vk.com/bivis91</p>
+<h4 align="left">Как со мной связаться:<br>- https://t.me/Bivis63<br>- klushin_s@internet.ru<br>- https://vk.com/bivis91</h4>
 
 ###
 
