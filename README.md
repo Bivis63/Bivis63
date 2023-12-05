@@ -23,9 +23,6 @@
 <h4 align="left">Мой стек: Kotlin, Clean Architecture, Retrofit, Coroutines, MVVM, SOLID, Room,  Koin, Jetpack Navigation Component</h4>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Bivis63/Bivis63/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h4 align="left">Как со мной связаться:<br>- https://t.me/Bivis63<br>- klushin_s@internet.ru<br>- https://vk.com/bivis91</h4>
