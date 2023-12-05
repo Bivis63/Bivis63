@@ -1,14 +1,42 @@
-<h1 align="center">Привет 👋, я Сергей Клушин</h1>
-<h3 align="center">Я разработчик Android</h3>
+<p align="center">Привет всем!👋</p>
 
-- 📫 Как со мной связаться **https:// t.me/Bivis63**
+###
 
-- 📄Знайте о моем опыте [https://samara.hh.ru/resume/3f5caff2ff0ca2599b0039ed1f727037345967](https://samara.hh.ru/resume/3f5caff2ff0ca2599b0039ed1f727037345967)
+<p align="left">Меня зовут Сергей Клушин и я Android developer</p>
 
-<h3 al ign="слева" >Свяжитесь со мной:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <a href=" https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original- wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> < /a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon. svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left">Языки и инструменты :</p>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<p align="left">Мой стек: Kotlin, Clean Architecture, Retrofit, Coroutines, MVVM, SOLID, Room,  Koin, Jetpack Navigation Component</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Bivis63/Bivis63/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Как со мной связаться:<br>- https://t.me/Bivis63<br>- klushin_s@internet.ru<br>- https://vk.com/bivis91</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
